@@ -1,13 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3969080
-#EXT-X-TARGETDURATION:11
-#EXT-X-I-FRAMES-ONLY
-#EXTINF:10.144000,
-https://cors.plus/2hubs.ddns.net:25461/pachaman/asdfghuytrc/73125
-#EXTINF:10.000000,
-https://cors.plus/2hubs.ddns.net:25461/solidtv/0elrXWdEdl/73125
-#EXTINF:10.144000,
-https://cors.plus/2hubs.ddns.net:25461/live/pachaman/asdfghuytrc/73125.m3u8
-#EXTINF:10.000000,
-https://cors.plus/2hubs.ddns.net:25461/live/solidtv/0elrXWdEdl/73125.m3u8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1900000,BANDWIDTH=2370000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.42001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697816842~exp=1697860042~acl=/*~data=45.61.146.183-WEB~hmac=c04036fe31cf79177a0af6c6e7893f72f2d595b31c9008040eb48435d5a8022d
